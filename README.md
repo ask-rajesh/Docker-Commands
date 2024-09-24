@@ -41,7 +41,7 @@ Visit [Docker Installation](https://hub.docker.com/_/mysql).
 docker --version
 ```
 * #### Pull an Image from docker hub.
-  * *<version>* is optional, but you can specify your required verion. Put *latest* for latest version.
+  * **<version>:** is optional, but you can specify your required verion. Put *latest* for latest version.
 ```
 docker pull <image_name>:<version>
 ```
